@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+//111
 var (
 	rnd *rand.Rand
 	ch  chan int64
