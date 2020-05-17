@@ -7,6 +7,7 @@ import (
 )
 
 //111
+//sencod
 var (
 	rnd *rand.Rand
 	ch  chan int64
