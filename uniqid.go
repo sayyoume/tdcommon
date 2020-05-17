@@ -8,6 +8,7 @@ import (
 
 //111
 //sencod
+//thrid
 var (
 	rnd *rand.Rand
 	ch  chan int64
